@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello!Laravel! --Hong Qingqing</div>
+                <div class="title">Hello!Laravel! --Hong Qingqing(洪青青)</div>
             </div>
         </div>
     </body>
